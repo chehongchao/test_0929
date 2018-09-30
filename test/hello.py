@@ -9,5 +9,10 @@ d = 1
 def index():
     return "index"
 
+
 def world():
     return "world"
+
+
+def hello():
+    return "hello"
