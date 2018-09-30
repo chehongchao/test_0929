@@ -8,3 +8,6 @@ d = 1
 
 def index():
     return "index"
+
+def world():
+    return "world"
