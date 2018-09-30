@@ -6,6 +6,8 @@ c = 1
 
 d = 1
 
+f = 5
+
 def index():
     return "index"
 
